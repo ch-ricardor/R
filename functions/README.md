@@ -25,7 +25,7 @@
       dWorkingDir - First part of the root directory path where the application is installed
                   NOTE: This directory path MUST exist.
       
-  I_<varaibles>
+  I_"varaibles"
 
       I_Data - Is the working directory path where the program will download, expand and store the working files files.
               NOTE: if the directory path doesn't exist, it will be created by the script.
