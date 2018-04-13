@@ -30,6 +30,6 @@ https://www.esri.com/library/brochures/pdfs/arcgis.pdf
 D:\Git_Projects\R\R_WordCloud\code\data\documents\my_pdfFile.pdf
 
 
-
+![Alt text](./Strategy_Map.png?raw=true "WordCloud")
 
 
