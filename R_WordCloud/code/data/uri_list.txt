@@ -1,0 +1,4 @@
+https://pdfs.semanticscholar.org/8131/b3e9040b729289d72be13c41a94fb20db7e0.pdf
+https://fluxicon.com/disco/files/Disco-Tour.pdf
+https://www.esri.com/library/brochures/pdfs/arcgis.pdf
+D:\Git_Projects\R\R_WordCloud\code\data\documents\my_pdfFile.pdf
