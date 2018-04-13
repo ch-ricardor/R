@@ -7,4 +7,4 @@ Word Cloud Directory
 
 Small program to create wordclouds and csv files with the the 10 most freuent words
 
-![Alt text](./Strategy_Map.png?raw=true "WordCloud")
+![Alt text](./R_WordCloud/Strategy_Map.png?raw=true "WordCloud")
